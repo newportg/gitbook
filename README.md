@@ -20,7 +20,7 @@ layout:
 
 # Welcome
 
-```plant-uml
+```plantuml
 
 a -> b
 
