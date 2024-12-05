@@ -34,6 +34,11 @@ You'll see some of the best parts of GitBook in action — and find help on how 
 
 ```mermaid
 graph TD
-  fish -> notFish
+  fish --> notFish
+```
+
+```mermaid
+graph TD
+  Mermaid --> Diagram
 ```
 
