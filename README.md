@@ -42,7 +42,7 @@ graph TD
   Mermaid --> Diagram
 ```
 
-```plant-uml
+```puml
 @startuml
 a -> b
 @enduml
