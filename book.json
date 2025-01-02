@@ -1,9 +1,3 @@
 {
-  "plugins": ["graphviz-and-plant-uml", "puml"],
-  "pluginsConfig": {
-    "graphviz-and-plant-uml": {
-      "Render": "PlantUMLServer",
-      "Server": "http://www.plantuml.com/plantuml"
-    }
-  }
+  "plugins": ["puml"]
 }
